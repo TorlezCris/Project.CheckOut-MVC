@@ -1,0 +1,31 @@
+﻿@model Project.CheckOut.Models.Order
+
+@{
+	ViewBag.Title = "Order Page";
+}
+<div class="jumbotron">
+	<div class="container">
+				<div class="row bs-wizard" style="border-bottom:0;">
+					<div class="text-center">
+							<div class="row">
+									<a href="" type="button" class="btn btn-success btn-circle">
+										<span class="glyphicon glyphicon-ok"></span>
+									</a>
+									<p>Orden Generada</p>
+							</div>
+							<div class="row">
+								<div class="col-xs-12">
+									<br />
+									<label class="col-sm-4 col-sm-offset-4 control-label" for="card-holder-name">
+										<b>Gracias por Comprar!!</b> Tu orden es: @Model.OrderNumber
+									</label>
+									<div>@Html.ActionLink("Ver todas mis órdenes", "Index", "Order")</div>
+								</div>
+								</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	<div class="row">
+
+	</div>

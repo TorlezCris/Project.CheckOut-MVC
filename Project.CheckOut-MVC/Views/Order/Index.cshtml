@@ -1,0 +1,75 @@
+﻿@model IEnumerable<Project.CheckOut.Models.Order>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+	<p class="text-center alert-info">Esto es una vista provisional para que el profesor identifique que se manejarán procesos 
+	enseñados en clase, luego será recolocada en otra sección</p>
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.OrderNumber)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CreatedDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ConfirmDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ShippedDate)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Status)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.OrderNumber)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CreatedDate)
+        </td>
+        <td>
+            @if(item.ConfirmDate == null)
+						{
+								<text>-</text>
+						}
+						else
+						{
+							@Html.DisplayFor(modelItem => item.ConfirmDate)
+						}
+
+        </td>
+				<td>
+						@if (item.ShippedDate == null)
+						{
+								<text>-</text>
+						}
+						else
+						{
+							@Html.DisplayFor(modelItem => item.ShippedDate)
+						}
+				</td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Status)
+        </td>
+				<td>
+					@using (Html.BeginForm("Index", "OrderDetail", FormMethod.Get))
+					{
+							<input type="number" id="OrderID" name="OrderID" value="@item.OrderID" hidden />
+							<input type="number" id="OrderNumber" name="OrderNumber" value="@item.OrderNumber" hidden />
+							<input type="submit" value="Detalle" class="btn-link" />
+					}
+				</td>
+    </tr>
+}
+
+</table>

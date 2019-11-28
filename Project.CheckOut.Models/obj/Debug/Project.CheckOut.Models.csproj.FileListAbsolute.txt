@@ -1,0 +1,165 @@
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\Project.CheckOut.Models.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\Project.CheckOut.Models.pdb
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\csc.exe
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\csc.exe.config
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\csc.rsp
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\csi.exe
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\csi.exe.config
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\csi.rsp
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.AppContext.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Console.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.IO.Compression.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.IO.Pipes.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.Claims.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.ValueTuple.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Xml.XPath.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\vbc.exe
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\vbc.exe.config
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\vbc.rsp
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\VBCSCompiler.exe
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\obj\Debug\Project.CheckOut.Models.csprojAssemblyReference.cache
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\obj\Debug\Project.CheckOut.Models.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\obj\Debug\Project.CheckOut.Models.csproj.CopyComplete
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\obj\Debug\Project.CheckOut.Models.dll
+C:\Users\usuario\source\repos\Project.CheckOut-MVC\Project.CheckOut.Models\obj\Debug\Project.CheckOut.Models.pdb
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\Project.CheckOut.Models.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\Project.CheckOut.Models.pdb
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\csc.exe
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\csc.exe.config
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\csc.rsp
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\csi.exe
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\csi.exe.config
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\csi.rsp
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.Managed.Core.targets
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.AppContext.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Collections.Immutable.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Console.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.IO.Compression.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.IO.FileSystem.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.IO.Pipes.AccessControl.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.IO.Pipes.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Reflection.Metadata.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.AccessControl.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.Claims.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.Principal.Windows.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.ValueTuple.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Xml.XmlDocument.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Xml.XPath.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\vbc.exe
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\vbc.exe.config
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\vbc.rsp
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\VBCSCompiler.exe
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\VBCSCompiler.exe.config
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\obj\Debug\Project.CheckOut.Models.csprojAssemblyReference.cache
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\obj\Debug\Project.CheckOut.Models.csproj.CoreCompileInputs.cache
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\obj\Debug\Project.CheckOut.Models.csproj.CopyComplete
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\obj\Debug\Project.CheckOut.Models.dll
+F:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\obj\Debug\Project.CheckOut.Models.pdb
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\Project.CheckOut.Models.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\Project.CheckOut.Models.pdb
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\csc.exe
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\csc.exe.config
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\csc.rsp
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\csi.exe
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\csi.exe.config
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\csi.rsp
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.Managed.Core.targets
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.AppContext.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Collections.Immutable.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Console.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.IO.Compression.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.IO.FileSystem.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.IO.Pipes.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Reflection.Metadata.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.AccessControl.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.Claims.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Security.Principal.Windows.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.ValueTuple.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Xml.XmlDocument.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Xml.XPath.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\vbc.exe
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\vbc.exe.config
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\vbc.rsp
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\VBCSCompiler.exe
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\roslyn\VBCSCompiler.exe.config
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\obj\Debug\Project.CheckOut.Models.csproj.CoreCompileInputs.cache
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\obj\Debug\Project.CheckOut.Models.csproj.CopyComplete
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\obj\Debug\Project.CheckOut.Models.dll
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\obj\Debug\Project.CheckOut.Models.pdb
+D:\CursoCibertec\my project\Project.CheckOut-MVC\Project.CheckOut.Models\obj\Debug\Project.CheckOut.Models.csprojAssemblyReference.cache

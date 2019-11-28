@@ -1,0 +1,249 @@
+﻿@model Project.CheckOut.Models.Order
+
+@{
+	ViewBag.Title = "Home Page";
+}
+<div class="jumbotron">
+	<div class="container">
+		<div class="row bs-wizard" style="border-bottom:0;">
+			<div class="container">
+				<div class="stepwizard">
+					<div class="stepwizard-row setup-panel">
+						<div class="stepwizard-step paso">
+							<a href="#VerifyEmail-step" type="button" class="btn btn-primary btn-circle" id="VerifyEmail-step-1">
+								<span class="glyphicon glyphicon-shopping-cart"></span>
+							</a>
+							<p>Verificar productos</p>
+						</div>
+						<div class="stepwizard-step paso">
+							<a href="#ProfileSetup-step" type="button" class="btn btn-success-2 btn-circle" disabled="disabled" display="block" id="ProfileSetup-step-2">
+								<span class="glyphicon glyphicon-credit-card"></span>
+							</a>
+							<p>Métodos de Pago</p>
+						</div>
+						@*<div class="stepwizard-step paso">
+							<a href="#Security-Setup-step" type="button" class="btn btn-success-3 btn-circle" disabled="disabled" display="block" id="Security-Setup-step-3">
+								<span class="glyphicon glyphicon-ok"></span>
+							</a>
+							<p>Orden Generada</p>
+						</div>*@
+					</div>
+				</div>
+				<form role="form">
+					<div class="row setup-content" id="VerifyEmail-step">
+						<div class="col-xs-12">
+							<div class="col-md-12">
+								<br />
+								<div class="form-horizontal">
+									<form role="form">
+										<fieldset>
+											<p class="text-center alert-info">
+												Las vistas aún no tienen validaciones, se está mandando data en duro a modo de prueba.
+												Todos los flujos en el backend son completamente funcionales.
+											</p>
+											<div class="container mb-4">
+												<div class="row">
+													<div class="col-12">
+														<div class="table-responsive">
+															<table class="table table-striped">
+																<thead>
+																	<tr>
+																		<th scope="col"> </th>
+																		<th scope="col">Producto</th>
+																		<th scope="col">Habilitado</th>
+																		<th scope="col" class="text-center">Cantidad</th>
+																		<th scope="col" class="text-right">Precio</th>
+																		<th> </th>
+																	</tr>
+																</thead>
+																<tbody>
+																	<tr>
+																		<td><img src="~/Content/Images/fff.png" /> </td>
+																		<td>Producto 1</td>
+																		<td>Con stock</td>
+																		<td><input class="form-control" type="text" value="1" disabled /></td>
+																		<td class="text-right">S/ 124.90</td>
+																		<td class="text-right"><button class="btn btn-sm btn-danger"><i class="glyphicon glyphicon-trash"></i> </button> </td>
+																	</tr>
+																	<tr>
+																		<td><img src="~/Content/Images/fff.png" /> </td>
+																		<td>Producto 2</td>
+																		<td>Con stock</td>
+																		<td><input class="form-control" type="text" value="1" disabled /></td>
+																		<td class="text-right">S/ 33.90</td>
+																		<td class="text-right"><button class="btn btn-sm btn-danger"><i class="glyphicon glyphicon-trash"></i> </button> </td>
+																	</tr>
+																	<tr>
+																		<td><img src="~/Content/Images/fff.png" /> </td>
+																		<td>Product3</td>
+																		<td>Con stock</td>
+																		<td><input class="form-control" type="text" value="1" disabled /></td>
+																		<td class="text-right">S/ 70.00</td>
+																		<td class="text-right"><button class="btn btn-sm btn-danger"><i class="glyphicon glyphicon-trash"></i> </button> </td>
+																	</tr>
+																	<tr>
+																		<td></td>
+																		<td></td>
+																		<td></td>
+																		<td></td>
+																		<td>Sub-Total</td>
+																		<td class="text-right">S/ 228.80</td>
+																	</tr>
+																	@*<tr>
+									<td></td>
+									<td></td>
+									<td></td>
+									<td></td>
+									<td></td>
+									<td class="text-right"></td>
+								</tr>*@
+																	<tr>
+																		<td></td>
+																		<td></td>
+																		<td></td>
+																		<td></td>
+																		<td><strong>Total</strong></td>
+																		<td class="text-right"><strong>S/ 228.80</strong></td>
+																	</tr>
+																</tbody>
+															</table>
+														</div>
+													</div>
+												</div>
+											</div>
+										</fieldset>
+									</form>
+								</div>
+								<div class="col-sm-12  col-md-6">
+									<button class="btn btn-block btn-light">Continuar Comprando</button>
+								</div>
+								<div class="col-sm-12 col-md-6 text-right">
+									<button class="btn btn-primary nextBtn btn-lg pull-right" type="button">Siguiente</button>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="row setup-content" id="ProfileSetup-step">
+						<div class="col-xs-12">
+              <div class="col-md-12">
+                  <br />
+                  <div class="form-horizontal">
+                      <form role="form">
+													<p class="text-center alert-info">
+														Las vistas aún no tienen validaciones, se está mandando data en duro a modo de prueba.
+														Todos los flujos en el backend son completamente funcionales.
+													</p>
+                          <fieldset>
+                              <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.8/css/all.css">
+
+                              <div class="container">
+                                  <!-- col.// -->
+																	<aside class="col-sm-3"></aside>
+                                  <aside class="col-sm-6">
+                                      <article class="payments">
+                                          <div class="card-body p-5">
+                                              <ul class="nav bg-light nav-pills rounded nav-fill mb-3" role="tablist">
+                                                  <li class="nav-item active">
+                                                      <a class="nav-link active" data-toggle="pill" href="#nav-tab-card">
+                                                          <i class="fa fa-credit-card"></i> Tarjeta de Crédito
+                                                      </a>
+                                                  </li>
+                                              </ul>
+                                              <div class="tab-content">
+                                                  <div class="tab-pane fade show active in" id="nav-tab-card">
+                                                      <p class="alert alert-success">Texto exitoso o de error</p>
+                                                      <form role="form">
+                                                          <div class="legend form-group">
+                                                              <label for="username">Nombre Completo</label>
+                                                              <input type="text" class="form-control" name="username" placeholder="" required="">
+                                                          </div> <!-- form-group.// -->
+                                                          <div class="form-group">
+                                                              <label for="cardNumber">Número de Tarjeta</label>
+                                                              <div class="input-group">
+                                                                  <input type="text" class="form-control" name="cardNumber" placeholder="">
+                                                                  <div class="input-group-append">
+                                                                      <span class="input-group-text text-muted">
+                                                                          <i class="fab fa-cc-mastercard"></i> <i class="fab fa-cc-visa"></i> <i class="fab fa-cc-amex"></i>
+                                                                      </span>
+                                                                  </div>
+                                                              </div>
+                                                          </div> <!-- form-group.// -->
+                                                          <div class="row">
+                                                              <div class="col-sm-8">
+                                                                  <div class="form-group">
+                                                                      <label><span class="hidden-xs">Expiración</span> </label>
+                                                                      <div class="input-group">
+                                                                          <input type="number" class="form-control" placeholder="MM" name="">
+                                                                          <input type="number" class="form-control" placeholder="YY" name="">
+                                                                      </div>
+                                                                  </div>
+                                                              </div>
+                                                              <div class="col-sm-4">
+                                                                  <div class="form-group">
+                                                                      <label data-toggle="tooltip" title="" data-original-title="3 digits code on back side of the card">CVV <i class="fa fa-question-circle"></i></label>
+                                                                      <input type="number" class="form-control" required="">
+                                                                  </div> <!-- form-group.// -->
+                                                              </div>
+                                                          </div> <!-- row.// -->
+                                                          @*<button class="subscribe btn btn-primary btn-block" type="button"> Confirmar  </button>*@
+                                                      </form>
+                                                  </div> <!-- tab-pane.// -->
+                                              </div> <!-- tab-content .// -->
+                                          </div> <!-- card-body.// -->
+                                      </article> <!-- card.// -->
+
+                                  </aside> <!-- col.// -->
+                              </div> <!-- row.// -->
+                              <!--container end.//-->
+                          </fieldset>
+                      </form>
+                  </div>
+                  @using (Html.BeginForm("Create", "Order", FormMethod.Post))
+                  {
+											@Html.AntiForgeryToken()
+											@Html.ValidationSummary(true)
+                      <div class="form-horizontal">
+                          <div class="form-group">
+														<div class="col-md-12">
+															<input type="number" id="ProductID" name="ProductID" value="1" hidden />
+															<input type="number" id="Quantity" name="Quantity" value="3" hidden />
+															<input type="text" id="ProductID" name="Precio" value="228.80" hidden />
+															<input type="submit" value="Comprar" class="btn btn-primary nextBtn btn-lg pull-right" />
+														</div>
+                          </div>
+                      </div>
+                  }
+              </div>
+						</div>
+					</div>
+					@*<div class="row setup-content" id="Security-Setup-step">
+						<div class="col-xs-12">
+							<div class="col-md-12">
+								<b>Gracias por Comprar</b>
+								
+								<div class="form-horizontal">
+									<form role="form">
+										<fieldset>
+											<br />
+											<div class="form-group">
+												<label class="col-sm-3 control-label" for="card-holder-name">Tu orden es:</label>
+                        <div class="col-sm-9">
+                            <th>
+                                @Html.DisplayNameFor(model => model.OrderNumber)
+                            </th>
+                        </div>
+											</div>
+										</fieldset>
+									</form>
+								</div>
+							</div>
+						</div>
+					</div>*@
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="row">
+	
+</div>
